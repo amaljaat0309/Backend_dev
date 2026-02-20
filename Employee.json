@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1771565201734,
+    "name": "Amal Kumar Tomar",
+    "gender": "Male",
+    "department": "Sales",
+    "salary": "40000",
+    "startDate": "20-Sep-2019",
+    "notes": "id"
+  },
+  {
+    "id": 1771566112976,
+    "name": "Amal Kumar Tomar",
+    "gender": "Male",
+    "department": "HR",
+    "salary": "10000",
+    "startDate": "14-Sep-2018",
+    "notes": "id "
+  },
+  {
+    "id": 1771566641965,
+    "name": "Amal Kumar Tomar",
+    "gender": "Male",
+    "department": "HR",
+    "salary": "10000",
+    "startDate": "14-Sep-2018",
+    "notes": "id "
+  },
+  {
+    "id": 1771566829154,
+    "name": "aman ",
+    "gender": "Female",
+    "department": "Engineer",
+    "salary": "10000",
+    "startDate": "14-Sep-2018",
+    "notes": "id "
+  }
+]
